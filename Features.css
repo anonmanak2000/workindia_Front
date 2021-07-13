@@ -1,0 +1,21 @@
+.Features{
+    padding: 30px 70px;
+}
+.Card2{
+    background-color: white;
+    border-radius: 8px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   box-shadow: 0px 4px rgb(216, 215, 215) ;
+}
+.Card2 .top{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 80px;
+}
+
+.Card2 .top p{
+    font-size: 17px;
+    font-weight: bold;
+    color: rgb(95, 93, 93);
+}

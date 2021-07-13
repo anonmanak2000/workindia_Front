@@ -1,0 +1,30 @@
+.Recharge{
+    padding: 30px 70px;
+    margin-top: -15px;
+}
+p{
+    font-size: 15px;
+    
+}
+.Card1{
+    background-color: white;
+    border-radius: 8px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   box-shadow: 0px 4px rgb(216, 215, 215) ;
+}
+.Card1 .top{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 90px;
+}
+.btn{
+    background-color: rgb(26, 201, 26);
+    border: none;
+    color: white;
+    width: 100px;
+    padding: 2px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 4px;
+}
